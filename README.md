@@ -1,4 +1,5 @@
-In order to get the post request all you need to provide is a location and date parameter. If you pass in a post request to http://localhost:3000/sunrises?location=Tokyo&date=2020-06-09 you will recieve the json data 
+In order to get the post request all you need to provide is a location and date parameter. If you pass in a post request to http://localhost:3000/sunrises?location=Tokyo&date=2020-06-09 you will recieve the json data:
+
 {
     "results": {
         "sunrise": "7:24:35 PM",
